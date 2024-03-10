@@ -32,8 +32,4 @@ I contribute to open-source projects and continually seek to apply data science 
 
 Thank you for visiting my profile! I'm always interested in new opportunities and collaborations, especially in projects aimed at making a difference through technology and data.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAG](https://www.istockphoto.com/photo/sloth-in-panama-gm671313470-122856081)E">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.pexels.com/photo/sloth-hanging-on-tree-16408572/)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+![](https://images.pexels.com/photos/16408572/pexels-photo-16408572/free-photo-of-sloth-hanging-on-tree.jpeg)
